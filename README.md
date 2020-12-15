@@ -9,6 +9,7 @@ Sebuah view adalah obyek yang menggambar komponen tampilan ke layar yang mana pe
 5.	**GridView**, komponen untuk menampilkan informasi dalam bentuk grid.
 6. 	**RadioButton**, komponen yang memungkinkan pengguna dapat memilih satu pilihan dari berbagai pilihan yang disediakan.
 7.	**Checkbox**, komponen yang memungkinkan pengguna dapat memilih lebih dari satu dari pilihan yang ada.
+8.  **LinearLayout**,
 <br>
 Sedangkan viewgroup adalah sebuah obyek yang mewadahi obyek-obyek view dan viewgroup itu sendiri sehingga membentuk satu kesatuan tampilan aplikasi yang utuh. Contoh komponen viewgroup adalah :
 1.  **TextView**, komponen yang berguna untuk menampilkan teks ke layar.
