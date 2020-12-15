@@ -20,7 +20,6 @@ Semua tergantung latihan dan seberapa sering kita mengubah mockup menjadi tampil
 Ketika aplikasi memuat informasi yang banyak dan melebihi ukuran layar, maka Anda membutuhkan tampilan yang memungkinkan pengguna untuk membaca informasi dengan lengkap. Kita membutuhkan komponen scrollview untuk mengatasi masalah ini.
 <br>
 1.  **ScrollView**,Adalah layout yang memungkinkan komponen di dalamnya digeser (scroll) secara vertikal dan horizontal. Komponen di dalam scrollview hanya diperbolehkan memiliki 1 parent utama dari linearlayout, relativelayout, framelayout, atau tablelayout.
-<br>
 **Satuan Dimensi Android**
 <br>
 Platform Android dikenal karena keberagamannya. Mulai ukuran perangkatnya, layar, spesifikasi, hingga level operating system-nya. Karena keberagaman tersebut, tak heran jika dibutuhkan tampilan yang konsisten agar aplikasi kita bisa berjalan dan tampil maksimal. <br>
