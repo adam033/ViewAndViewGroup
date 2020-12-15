@@ -25,6 +25,12 @@ Android sendiri memiliki satuan unit dimensi untuk ukuran tinggi dan lebar sebua
 4.	**Satuan sp** digunakan untuk ukuran teks. Perbedaannya dengan dp/dip adalah satuan sp android akan men-scale ukuran teks sesuai dengan setting ukuran teks di peranti (yang biasa dapat diakses melalui menu settings). <br>
 
 ### Hasil Run
+![Alt Text](https://github.com/adam033/ViewAndViewGroup/blob/main/Screenshot%20(549).png)
+![Alt Text](https://github.com/adam033/ViewAndViewGroup/blob/main/Screenshot%20(550).png)
+<br>
+<br>
+### Terima Kasih Dan Semoga Bermanfaat
+
 
  
 
