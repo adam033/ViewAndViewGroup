@@ -11,7 +11,7 @@ Sebuah view adalah obyek yang menggambar komponen tampilan ke layar yang mana pe
 7.	**Checkbox**, komponen yang memungkinkan pengguna dapat memilih lebih dari satu dari pilihan yang ada.
 <br>
 Sedangkan viewgroup adalah sebuah obyek yang mewadahi obyek-obyek view dan viewgroup itu sendiri sehingga membentuk satu kesatuan tampilan aplikasi yang utuh. Contoh komponen viewgroup adalah :
-* **LinearLayout**,
+8.  **LinearLayout**
 
 
 
