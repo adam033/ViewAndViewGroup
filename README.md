@@ -10,7 +10,7 @@ Sebuah view adalah obyek yang menggambar komponen tampilan ke layar yang mana pe
 6. 	**RadioButton**, komponen yang memungkinkan pengguna dapat memilih satu pilihan dari berbagai pilihan yang disediakan.
 7.	**Checkbox**, komponen yang memungkinkan pengguna dapat memilih lebih dari satu dari pilihan yang ada.
 <br>
-Sedangkan viewgroup adalah sebuah obyek yang mewadahi obyek-obyek view dan viewgroup itu sendiri sehingga membentuk satu kesatuan tampilan aplikasi yang utuh. Contoh komponen viewgroup adalah:
+Sedangkan viewgroup adalah sebuah obyek yang mewadahi obyek-obyek view dan viewgroup itu sendiri sehingga membentuk satu kesatuan tampilan aplikasi yang utuh. Contoh komponen viewgroup adalah :
 1.  p
 Salah satu perbedaan mendasar dari keempat jenis layout di atas adalah bagaimana komponen view di dalamnya tersusun. <br>
 Kapan saatnya menggunakan linearlayout, relativelayout, framelayout dan tablelayout? Jawabannya tergantung pada kebutuhan dan performa aplikasi yang dibuat. <br>
